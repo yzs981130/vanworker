@@ -1,0 +1,7 @@
+name = "vanworker"
+type = "webpack"
+workers_dev = false
+route = "https://pkg.yezhisheng.me/*"
+
+[site]
+bucket = "./public"

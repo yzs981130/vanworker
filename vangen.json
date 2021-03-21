@@ -1,0 +1,19 @@
+{
+    "domain": "pkg.yezhisheng.me",
+    "index": true,
+    "repositories": [
+      {
+        "prefix": "volcano",
+        "type": "git",
+        "url": "https://github.com/yzs981130/volcano/tree/yzs/feat_job-fariness",
+        "source": {
+          "home": "https://github.com/yzs981130/volcano",
+          "dir": "https://github.com/yzs981130/volcano/tree/yzs/feat_job-fariness{/dir}",
+          "file": "https://github.com/yzs981130/volcano/blob/yzs/feat_job-fariness{/dir}/{file}#L{line}"
+        },
+        "website": {
+          "url": "https://github.com/yzs981130/volcano"
+        }
+      }
+    ]
+  }
