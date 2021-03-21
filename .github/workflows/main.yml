@@ -18,7 +18,7 @@ jobs:
       - name: Get vangen
         run: go get github.com/yzs981130/vangen
       - name: Update HTML
-        run: vangen -out public
+        run: $GOPATH/bin/vangen -out public
       - name: Publish
         uses: cloudflare/wrangler-action@1.2.0
         env:
