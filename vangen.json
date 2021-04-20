@@ -14,6 +14,10 @@
         "website": {
           "url": "https://github.com/yzs981130/volcano"
         }
+      },
+      {
+        "prefix": "oyashirosama",
+	"url": "https://github.com/yzs981130/oyashirosama"
       }
     ]
   }
